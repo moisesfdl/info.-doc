@@ -1,6 +1,166 @@
-# assimilar-pc-dotnet-cmd
-I would like to insert or supplement an idea where dotnet, an old microsoft program that I managed to cast response to converse herbeviarism, pitch the idea or not book and run on the pc in real time where to use a computer and talk to dotnet in audio with pc,.
 
-the idea is to insert a response cmd with audio and assimilating everything he hears and answering, on the pc assimilating he records the experience and will have but response according to time and your tutor or its owner is configuring his personality
-
-resposta assimilar de personilidade
+{
+   "version": "0.2.0",
+   "configurations": [
+int:in;
+int: config;
+     in: CPF: 2
+    config: ;,
+     name: ;
+     nasc : ;
+     colegial: ;
+     superior&curso:;
+    senai : ;
+    divorciado : ;
+    filho(a) : ;
+    filho(a):  ;
+   filho(a): ;
+   curso:  ;
+   cotista: ;
+   DARF: .;
+   INVESTIDOR: ;
+   
+[
+         {
+       int: in 
+       int : CPF;
+       int:  RG;
+       int:   Banco;
+        int: CARTAO;
+        int:  SUS;
+        int:  PIS;
+        int:  TituloEleitoral;
+        int: Celular;
+       int: AcessoCard;
+       int: DoadorDeSangue;
+      int: CateiraProfissional;
+      int: CertidaoNascimento;
+      int: Averbaçao;
+       int:CertidaoDeCasamento
+       int: CertidaoDeNascimentoFilho(a);
+       int: CertidaoDeNascimentoFilho(a);
+        int: CertidaoDeNascimentoFilho(a): 
+        int : Investidor;	{
+               {
+                  "CPF": CPF=""{
+                     "RG": 27.;
+                  }
+               }
+               {
+                  "CPF": CPF="{
+                     "Banco":{
+                        "ag&cont":   ;
+                     }
+                  }
+               }
+               {
+                  "CPF": CPF="{
+                     "Banco":  {
+                        "ag&cont": ;
+                  {
+                           "CARTAO": ;
+                        }
+                     }
+                  }
+               }
+               {
+                  "CPF": CPF=""{
+                     "Banco": {
+                        "ag&cont": ;
+                     }
+                  }
+               }
+                  {
+                  "CPF":"{
+                     "Banco":  {
+                        "ag&cont":  ;
+                     }
+                  }
+               }
+                     {
+                  "CPF": CPF=""{
+                     "Banco": {
+                        "ag&cont":;
+                        {
+                           "CARTAO": ;
+                        }
+                     }
+                  }
+               }
+                     {
+                  "CPF": CPF=""{
+                     " CRA": CRA== {
+                        "SUS": ;
+                     }
+                  }
+               }
+                  {
+                  "CPF": CPF=""{
+                     "PIS": PIS==;
+                  }
+               }
+                  {
+                  "CPF": CPF=""{
+                     "TituloEleitoral": ;
+                  }
+               }
+                     {
+                  "CPF": CPF=""{
+                     "Celular": ;
+                  }
+               }
+                  {
+                  "CPF": CPF=""{
+                     "AcessoCard":  ;
+                  }
+               }
+               {
+                  "CPF": CPF=""{
+                     "DoadorDeSangue":;
+                  }
+               }
+                  {
+                  "CPF": CPF=""{
+                     "CarteiraProfissional": /
+                  }
+               }
+                  {
+                  "CPF": CPF=""{
+                     "CertidaoNascimento": ;
+                  }
+               }
+                    {
+                  "CPF": CPF="275.551.158-32"{
+                     "CertidaoDeCasamento":;
+                  }
+               }
+                       {
+                  "CPF": CPF=""{
+                     "Averbaçao":MATRICULA:;
+                  }
+               }
+                     {
+                  "CPF": CPF=""{
+                     "CertidaoDeNascimentoFilho(a)"9;
+                  }
+               }
+                     {
+                  "CPF":"{
+                     "CertidaoDeNascimentoFilho(a)": ;
+                  }
+               }
+                        {
+                  "CPF": "{
+                     "CertidaoDeNascimento":  ;
+                  }
+               }
+	               {
+                  "CPF": "{
+                     "lançamentos financeiros": ;
+                  }
+               }
+            }
+         }
+      ]
+   ]
+}
